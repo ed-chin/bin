@@ -1,6 +1,6 @@
 [user]
-	name = name
-	email = email@noreply.github.com
+	name = ed-chin
+	email = ed-chin@github.com
 [core]
 	editor = subl -n -w
 	autocrlf = false
