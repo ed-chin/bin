@@ -1,0 +1,16 @@
+[user]
+	name = name
+	email = email@noreply.github.com
+[core]
+	editor = subl -n -w
+	autocrlf = false
+	filemode = false
+[commit]
+	verbose = true
+[color "diff"]
+	meta = white
+	frag = white
+[color]
+	ui = true
+
+
